@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: http://www.tracibrowing.com/sitemap.txt
+Disallow: /cgi-bin/
+Disallow: /images/

@@ -1,0 +1,24 @@
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\Bin\Debug\AppManifest.xaml
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\Bin\Debug\ImageViewer.dll
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\Bin\Debug\ImageViewer.pdb
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\Bin\Debug\ImageViewer.xap
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\Bin\Debug\TestPage.html
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\App.g.cs
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\MainPage.g.cs
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\ImageViewer.g.resources
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\ImageViewer.dll
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\donwb\Documents\Visual Studio 2010\Projects\ImageViewer\obj\Debug\XapCacheFile.xml
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\Bin\Debug\AppManifest.xaml
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\Bin\Debug\ImageViewer.dll
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\Bin\Debug\ImageViewer.pdb
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\Bin\Debug\ImageViewer.xap
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\Bin\Debug\TestPage.html
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\App.g.cs
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\MainPage.g.cs
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\ImageViewer.g.resources
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\ImageViewer.dll
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\ImageViewer.pdb
+C:\Users\donwb\Desktop\thrutheshutter\ImageViewer\obj\Debug\XapCacheFile.xml

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+
+<photoCollection mode="publish">
+<display>
+<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="125479440707098525" idplateEnabled="false" css="&#xA;				#previewFull {background-color: #666666 !important; width: 705px !important; color: inherit}&#xA;				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderRightDotted {border-right: 1px dotted #787878 !important;}&#xA;				.logo {display: none !important;}&#xA;				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.emptyThumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.thumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.previewFullImage {height: 675px !important; width: 705px !important;}&#xA;				#stage2 {width: 705px !important;}&#xA;				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}&#xA;				#content {background-color: #4c4c4c !important; color: inherit;}&#xA;				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}&#xA;				#stage {width: 645px !important;}&#xA;				.caption {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#wrapper2 {width: 705px !important;}&#xA;				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}&#xA;				#wrapper {width: 645px !important;}&#xA;				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}&#xA;				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderBottom {border-bottom: 1px solid #787878 !important;}&#xA;				.borderRight {border-right: 1px solid #787878 !important;}&#xA;				body {background-color: #4c4c4c !important; color: inherit;}&#xA;			" identityPlateAbsolutePath="" numCols="4" numRows="3" homePage="index.html" imageBase="content" cellColor="#949494">
+</style>
+<metadata>
+<creationDate formatted="Mon Oct 05 2009 22:00:07 GMT-0400"></creationDate>
+<groupTitle value="Atl Photographs"></groupTitle>
+<contactInfo value="Contact name" link="mailto:user@domain.com"></contactInfo>
+<siteTitle value="Web Gallery"></siteTitle>
+<groupDescription value="e"></groupDescription>
+</metadata>
+<localization>
+<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+<item id="Fullsize" localized="Fullsize"></item>
+<item id="Next" localized="Next"></item>
+<item id="Previous" localized="Previous"></item>
+<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+<item id="more" localized="more"></item>
+<item id="Index" localized="Index"></item>
+</localization>
+</display>
+<head>
+<siteTitle></siteTitle>
+<collectionName></collectionName>
+<collectionTitle></collectionTitle>
+<collectionDescription></collectionDescription>
+<contactInfo></contactInfo>
+<slideDuration></slideDuration>
+<sizes>
+<size name="large" height="675" width="675"></size>
+<size name="thumb" height="129" width="129"></size>
+</sizes>
+</head>
+<samples totalGallerySize="28" firstSampleIndex="1">
+<img orientation="BC" imageID="0_1254794407074" filename="ATL%20from%20Stone%20Mountain%20HDR">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/ATL%20from%20Stone%20Mountain%20HDR.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/ATL%20from%20Stone%20Mountain%20HDR.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="1_1254794407075" filename="ATL%20from%20Vinings">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/ATL%20from%20Vinings.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/ATL%20from%20Vinings.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="2_1254794407075" filename="Atl%20Reflections%20-%205750">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Atl%20Reflections%20-%205750.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Atl%20Reflections%20-%205750.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="3_1254794407076" filename="Clermont%20Hotel%20-%205609">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Hotel%20-%205609.jpg" height="675" width="509" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Hotel%20-%205609.jpg" height="129" width="97" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="4_1254794407076" filename="Clermont%20Sign%20-%205638">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Sign%20-%205638.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Sign%20-%205638.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="5_1254794407077" filename="Clermont%20Sign%20Angled%20-%205563">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Sign%20Angled%20-%205563.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Sign%20Angled%20-%205563.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="6_1254794407077" filename="Clermont%20signs%20and%20City%20-5578">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20signs%20and%20City%20-5578.jpg" height="675" width="626" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20signs%20and%20City%20-5578.jpg" height="129" width="119" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="7_1254794407078" filename="COP%20Fountain%20-%207684">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/COP%20Fountain%20-%207684.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/COP%20Fountain%20-%207684.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="8_1254794407078" filename="Dancing%20Water%20COP%20-%207671">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Dancing%20Water%20COP%20-%207671.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Dancing%20Water%20COP%20-%207671.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="9_1254794407079" filename="Deconnector%20-%20DSC_5005">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Deconnector%20-%20DSC_5005.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Deconnector%20-%20DSC_5005.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="10_1254794407079" filename="Downtown%20Atlanta%20-%20DSC_4903">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Downtown%20Atlanta%20-%20DSC_4903.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Downtown%20Atlanta%20-%20DSC_4903.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="11_1254794407080" filename="Downtown%20Connector%20-%204980">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Downtown%20Connector%20-%204980.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Downtown%20Connector%20-%204980.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="12_1254794407080" filename="DSC_5437">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5437.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5437.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="13_1254794407081" filename="DSC_5481">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5481.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5481.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="14_1254794407081" filename="DSC_5524">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5524.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5524.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="15_1254794407082" filename="DSC_5696">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5696.jpg" height="266" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5696.jpg" height="50" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="16_1254794407082" filename="DSC_5911">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5911.jpg" height="675" width="540" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5911.jpg" height="129" width="103" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="17_1254794407082" filename="DSC_5968">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5968.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5968.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="18_1254794407083" filename="DSC_6001">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_6001.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_6001.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="19_1254794407083" filename="DSC_7832">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_7832.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_7832.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="20_1254794407084" filename="Fireworks%20-%204817">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Fireworks%20-%204817.jpg" height="675" width="500" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Fireworks%20-%204817.jpg" height="129" width="95" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="21_1254794407084" filename="Fireworks%20-%204840">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Fireworks%20-%204840.jpg" height="446" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Fireworks%20-%204840.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="22_1254794407085" filename="Grant%20Park%20Fountain%20-%206159">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Grant%20Park%20Fountain%20-%206159.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Grant%20Park%20Fountain%20-%206159.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="23_1254794407085" filename="Jackson%20Street%20-%205258%20master">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Jackson%20Street%20-%205258%20master.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Jackson%20Street%20-%205258%20master.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="24_1254794407086" filename="Jackson%20Street%20Dark-5202">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Jackson%20Street%20Dark-5202.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Jackson%20Street%20Dark-5202.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="25_1254794407086" filename="Krog%20Street%20-%204231">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Krog%20Street%20-%204231.jpg" height="472" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Krog%20Street%20-%204231.jpg" height="90" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="26_1254794407087" filename="Peidmont%20Park%20Gazebo%20DSC_5810">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="27_1254794407087" filename="Unlawful%20to%20park%20-%207848">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Unlawful%20to%20park%20-%207848.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Unlawful%20to%20park%20-%207848.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+</samples>
+<siteParams>
+<firstImage index="1"></firstImage>
+<lastImage index="28"></lastImage>
+<mode value="all"></mode>
+</siteParams>
+</photoCollection>

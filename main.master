@@ -1,0 +1,111 @@
+<%@ Master Language="VB" CodeFile="main.master.vb" Inherits="main" %>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head runat="server">
+
+
+<title>Traci Browning Photography</title>
+<!-- meta tags -->
+<meta name="revisit-after" content="10 Days">
+<meta name="keywords" content="nature, landscape, Big Sur, Paris, France, California, Phototography, fine art, photos, San Francisco, Yosemite, Yellowstone, trees, waterfalls, waterfall, green, beauty, photograph, Arizona, Grand Canyon, lake, canyon, rivers">
+<meta name="Author" content="Traci Browning">
+<meta name="copyright" content="2009">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<!-- Stylesheet -->
+<link href="core.css" rel="stylesheet" type="text/css">
+
+<!-- js files -->
+<script src="scripts/menudrop.js" language="javascript"></script>
+<script src="scripts/jquery_002.js" type="text/javascript"></script> 
+<script src="scripts/jquery.js" type="text/javascript"></script> 
+<script src="scripts/menusetup.js" type="text/javascript"></script> 
+
+</head>
+<script>
+    $(document).ready(function () {
+        $(document).bind("contextmenu", function (e) {
+            return false;
+        });
+    });
+</script>
+<script  id='googlecart-script' type='text/javascript' src='https://checkout.google.com/seller/gsc/v2/cart.js?mid=442424802243126' integration='jscart-wizard' post-cart-to-sandbox='false' currency='USD'></script>
+<body>
+
+<div><img src="header.jpg" alt="Thru The Shutter" height="80" width="275"></div>
+
+<div id="nav-strip">
+
+<ul id="sddm">
+    
+    <li style="width: 65px;">&nbsp;</li>
+    
+    <li><a href="default.aspx">Home</a></li>
+<!-- Removing Gallery from the navbar -->   	
+    <li><a href="gallerylist.aspx" onmouseover="mopen('m1')" onmouseout="mclosetime()">Gallery</a>
+		<div style="visibility: hidden;" id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+            <a href="gallery.aspx?galleryName=landscapes">Landscapes</a>
+            <a href="gallery.aspx?galleryName=cityscapes">Cityscapes</a>
+            <a href="gallery.aspx?galleryName=panoramas">Panoramas</a>
+            <a href="http://coasters.tracibrowning.com/index.aspx">Coasters</a>
+            <a href="saveourstateparks.aspx">Save Our State Parks</a> </div>
+            </li> 
+			
+    <li><a href="#" onmouseover="mopen('m2')" onmouseout="mclosetime()">About</a>
+        <div style="visibility: hidden;" id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+            <a href="about.aspx">About the Artist</a>
+            <a href="aboutTheImages.aspx">About the Images</a>
+            <a href="upcomingevents.aspx">Upcoming Events</a>
+            <a href="whatsnew.aspx">What's New</a>
+            <!-- <a href="process.aspx">Our Prints</a> -->
+            </div></li> 
+
+  
+</ul>
+
+    
+ <div id="googlecart-widget-control" googlecart-widget-control-align="right"
+     style="font: 12px Verdana, Arial, Helvetica, sans-serif; height:30px;position:absolute; top:88px; right: 30px;color: #999999;">View Cart (<span id="googlecart-item-count"></span> - <span id="googlecart-subtotal"></span>)</div>
+
+<div id="spacer"></div>
+
+</div>
+<div id="wrapper">
+    
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+</div>  <!-- wrapper -->
+
+
+    <div id="hammerhead">All photographs appearing on this site are the property of Traci Browning. They are protected by the U.S. copyright laws, 
+    and are not to be downloaded or reproduced in any way <br /> without the written permission of Traci Browning.  Copyright ©2009 by Traci Browning. 
+    All rights reserved. Please contact me <a href="mailto:traciestesbrowning@gmail.com"><u>here</u></a> if you wish to license the images.   
+   </div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-144982-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/JavaScript"
+src="http://rt.trafficfacts.com/tf.php?k=6919g8d103b867a1204e855ac794623cf5d7981cfb5d7h12;c=s;v=2">
+</script>
+<script type="text/JavaScript"><!--
+tfObj.process();
+--></script>
+<noscript><img src="http://rt.trafficfacts.com/ns.php?k=6919g8d103b867a1204e855ac794623cf5d7981cfb5d7h12" width="1" height="1" alt=""></noscript>
+</body></html>

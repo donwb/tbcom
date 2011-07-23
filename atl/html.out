@@ -1,0 +1,3348 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<files xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<file name="all-source.xml">
+<photoCollection mode="publish">
+<display>
+<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="125479440707098525" idplateEnabled="false" css="&#xA;				#previewFull {background-color: #666666 !important; width: 705px !important; color: inherit}&#xA;				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderRightDotted {border-right: 1px dotted #787878 !important;}&#xA;				.logo {display: none !important;}&#xA;				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.emptyThumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.thumbnail {background-color: #949494 !important; color: inherit;}&#xA;				.previewFullImage {height: 675px !important; width: 705px !important;}&#xA;				#stage2 {width: 705px !important;}&#xA;				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}&#xA;				#content {background-color: #4c4c4c !important; color: inherit;}&#xA;				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}&#xA;				#stage {width: 645px !important;}&#xA;				.caption {color: #b3b3b3 !important; background-color: inherit;}&#xA;				#wrapper2 {width: 705px !important;}&#xA;				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}&#xA;				#wrapper {width: 645px !important;}&#xA;				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}&#xA;				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}&#xA;				.borderBottom {border-bottom: 1px solid #787878 !important;}&#xA;				.borderRight {border-right: 1px solid #787878 !important;}&#xA;				body {background-color: #4c4c4c !important; color: inherit;}&#xA;			" identityPlateAbsolutePath="" numCols="4" numRows="3" homePage="index.html" imageBase="content" cellColor="#949494">
+</style>
+<metadata>
+<creationDate formatted="Mon Oct 05 2009 22:00:07 GMT-0400"></creationDate>
+<groupTitle value="Atl Photographs"></groupTitle>
+<contactInfo value="Contact name" link="mailto:user@domain.com"></contactInfo>
+<siteTitle value="Web Gallery"></siteTitle>
+<groupDescription value="e"></groupDescription>
+</metadata>
+<localization>
+<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+<item id="Fullsize" localized="Fullsize"></item>
+<item id="Next" localized="Next"></item>
+<item id="Previous" localized="Previous"></item>
+<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+<item id="more" localized="more"></item>
+<item id="Index" localized="Index"></item>
+</localization>
+</display>
+<head>
+<siteTitle></siteTitle>
+<collectionName></collectionName>
+<collectionTitle></collectionTitle>
+<collectionDescription></collectionDescription>
+<contactInfo></contactInfo>
+<slideDuration></slideDuration>
+<sizes>
+<size name="large" height="675" width="675"></size>
+<size name="thumb" height="129" width="129"></size>
+</sizes>
+</head>
+<samples totalGallerySize="28" firstSampleIndex="1">
+<img orientation="BC" imageID="0_1254794407074" filename="ATL%20from%20Stone%20Mountain%20HDR">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/ATL%20from%20Stone%20Mountain%20HDR.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/ATL%20from%20Stone%20Mountain%20HDR.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="1_1254794407075" filename="ATL%20from%20Vinings">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/ATL%20from%20Vinings.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/ATL%20from%20Vinings.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="2_1254794407075" filename="Atl%20Reflections%20-%205750">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Atl%20Reflections%20-%205750.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Atl%20Reflections%20-%205750.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="3_1254794407076" filename="Clermont%20Hotel%20-%205609">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Hotel%20-%205609.jpg" height="675" width="509" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Hotel%20-%205609.jpg" height="129" width="97" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="4_1254794407076" filename="Clermont%20Sign%20-%205638">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Sign%20-%205638.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Sign%20-%205638.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="5_1254794407077" filename="Clermont%20Sign%20Angled%20-%205563">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20Sign%20Angled%20-%205563.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20Sign%20Angled%20-%205563.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="6_1254794407077" filename="Clermont%20signs%20and%20City%20-5578">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Clermont%20signs%20and%20City%20-5578.jpg" height="675" width="626" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Clermont%20signs%20and%20City%20-5578.jpg" height="129" width="119" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="7_1254794407078" filename="COP%20Fountain%20-%207684">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/COP%20Fountain%20-%207684.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/COP%20Fountain%20-%207684.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="8_1254794407078" filename="Dancing%20Water%20COP%20-%207671">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Dancing%20Water%20COP%20-%207671.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Dancing%20Water%20COP%20-%207671.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="9_1254794407079" filename="Deconnector%20-%20DSC_5005">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Deconnector%20-%20DSC_5005.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Deconnector%20-%20DSC_5005.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="10_1254794407079" filename="Downtown%20Atlanta%20-%20DSC_4903">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Downtown%20Atlanta%20-%20DSC_4903.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Downtown%20Atlanta%20-%20DSC_4903.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="11_1254794407080" filename="Downtown%20Connector%20-%204980">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Downtown%20Connector%20-%204980.jpg" height="225" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Downtown%20Connector%20-%204980.jpg" height="43" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="12_1254794407080" filename="DSC_5437">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5437.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5437.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="13_1254794407081" filename="DSC_5481">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5481.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5481.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="14_1254794407081" filename="DSC_5524">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5524.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5524.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="15_1254794407082" filename="DSC_5696">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5696.jpg" height="266" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5696.jpg" height="50" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="16_1254794407082" filename="DSC_5911">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5911.jpg" height="675" width="540" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5911.jpg" height="129" width="103" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="17_1254794407082" filename="DSC_5968">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_5968.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_5968.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="18_1254794407083" filename="DSC_6001">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_6001.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_6001.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="19_1254794407083" filename="DSC_7832">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/DSC_7832.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/DSC_7832.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="20_1254794407084" filename="Fireworks%20-%204817">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Fireworks%20-%204817.jpg" height="675" width="500" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Fireworks%20-%204817.jpg" height="129" width="95" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="21_1254794407084" filename="Fireworks%20-%204840">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Fireworks%20-%204840.jpg" height="446" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Fireworks%20-%204840.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="22_1254794407085" filename="Grant%20Park%20Fountain%20-%206159">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Grant%20Park%20Fountain%20-%206159.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Grant%20Park%20Fountain%20-%206159.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="23_1254794407085" filename="Jackson%20Street%20-%205258%20master">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Jackson%20Street%20-%205258%20master.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Jackson%20Street%20-%205258%20master.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="24_1254794407086" filename="Jackson%20Street%20Dark-5202">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Jackson%20Street%20Dark-5202.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Jackson%20Street%20Dark-5202.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="25_1254794407086" filename="Krog%20Street%20-%204231">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Krog%20Street%20-%204231.jpg" height="472" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Krog%20Street%20-%204231.jpg" height="90" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="26_1254794407087" filename="Peidmont%20Park%20Gazebo%20DSC_5810">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+<img orientation="BC" imageID="27_1254794407087" filename="Unlawful%20to%20park%20-%207848">
+<text>
+<title></title>
+<description></description>
+</text>
+<rendition path="content/bin/images/large/Unlawful%20to%20park%20-%207848.jpg" height="448" width="675" size="large"></rendition>
+<rendition path="content/bin/images/thumb/Unlawful%20to%20park%20-%207848.jpg" height="85" width="129" size="thumb"></rendition>
+</img>
+</samples>
+<siteParams>
+<firstImage index="1"></firstImage>
+<lastImage index="28"></lastImage>
+<mode value="all"></mode>
+</siteParams>
+</photoCollection>
+</file>
+<file name="content/125479440707098525_custom.css">
+				#previewFull {background-color: #666666 !important; width: 705px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 675px !important; width: 705px !important;}
+				#stage2 {width: 705px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 645px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 705px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 645px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="index.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--padding for ie-->
+</meta>
+<meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer">
+<!--padding for ie-->
+</meta>
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="content/125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+<script type="text/javascript" src="resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript" src="resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage">
+<div id="index">
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/ATL%20from%20Stone%20Mountain%20HDR_large.html'">
+<div class="itemNumber">1</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID0_1254794407074_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/ATL%20from%20Stone%20Mountain%20HDR_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/ATL%20from%20Stone%20Mountain%20HDR.jpg" id="ID0_1254794407074_thumb" alt="ATL%20from%20Stone%20Mountain%20HDR">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/ATL%20from%20Vinings_large.html'">
+<div class="itemNumber">2</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID1_1254794407075_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/ATL%20from%20Vinings_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/ATL%20from%20Vinings.jpg" id="ID1_1254794407075_thumb" alt="ATL%20from%20Vinings">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/Atl%20Reflections%20-%205750_large.html'">
+<div class="itemNumber">3</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID2_1254794407075_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Atl%20Reflections%20-%205750_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Atl%20Reflections%20-%205750.jpg" id="ID2_1254794407075_thumb" alt="Atl%20Reflections%20-%205750">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='content/Clermont%20Hotel%20-%205609_large.html'">
+<div class="itemNumber">4</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID3_1254794407076_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Clermont%20Hotel%20-%205609_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Clermont%20Hotel%20-%205609.jpg" id="ID3_1254794407076_thumb" alt="Clermont%20Hotel%20-%205609">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/Clermont%20Sign%20-%205638_large.html'">
+<div class="itemNumber">5</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID4_1254794407076_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Clermont%20Sign%20-%205638_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Clermont%20Sign%20-%205638.jpg" id="ID4_1254794407076_thumb" alt="Clermont%20Sign%20-%205638">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/Clermont%20Sign%20Angled%20-%205563_large.html'">
+<div class="itemNumber">6</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID5_1254794407077_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Clermont%20Sign%20Angled%20-%205563_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Clermont%20Sign%20Angled%20-%205563.jpg" id="ID5_1254794407077_thumb" alt="Clermont%20Sign%20Angled%20-%205563">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='content/Clermont%20signs%20and%20City%20-5578_large.html'">
+<div class="itemNumber">7</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID6_1254794407077_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Clermont%20signs%20and%20City%20-5578_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Clermont%20signs%20and%20City%20-5578.jpg" id="ID6_1254794407077_thumb" alt="Clermont%20signs%20and%20City%20-5578">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='content/COP%20Fountain%20-%207684_large.html'">
+<div class="itemNumber">8</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID7_1254794407078_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/COP%20Fountain%20-%207684_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/COP%20Fountain%20-%207684.jpg" id="ID7_1254794407078_thumb" alt="COP%20Fountain%20-%207684">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='content/Dancing%20Water%20COP%20-%207671_large.html'">
+<div class="itemNumber">9</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID8_1254794407078_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Dancing%20Water%20COP%20-%207671_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Dancing%20Water%20COP%20-%207671.jpg" id="ID8_1254794407078_thumb" alt="Dancing%20Water%20COP%20-%207671">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='content/Deconnector%20-%20DSC_5005_large.html'">
+<div class="itemNumber">10</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID9_1254794407079_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Deconnector%20-%20DSC_5005_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Deconnector%20-%20DSC_5005.jpg" id="ID9_1254794407079_thumb" alt="Deconnector%20-%20DSC_5005">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='content/Downtown%20Atlanta%20-%20DSC_4903_large.html'">
+<div class="itemNumber">11</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID10_1254794407079_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Downtown%20Atlanta%20-%20DSC_4903_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Downtown%20Atlanta%20-%20DSC_4903.jpg" id="ID10_1254794407079_thumb" alt="Downtown%20Atlanta%20-%20DSC_4903">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='content/Downtown%20Connector%20-%204980_large.html'">
+<div class="itemNumber">12</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID11_1254794407080_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="content/Downtown%20Connector%20-%204980_large.html" onclick="return needThumbImgLink;">
+<img src="content/bin/images/thumb/Downtown%20Connector%20-%204980.jpg" id="ID11_1254794407080_thumb" alt="Downtown%20Connector%20-%204980">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="pagination">
+<ul>
+<li class="current">1</li>
+<li>
+<a href="content/index_2.html">2</a>
+</li>
+<li>
+<a href="content/index_3.html">3</a>
+</li>
+<li class="previous">Previous</li>
+<li class="next">
+<a class="paginationLinks" href="content/index_2.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--padding for ie-->
+</meta>
+<meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer">
+<!--padding for ie-->
+</meta>
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage">
+<div id="index">
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='ATL%20from%20Stone%20Mountain%20HDR_large.html'">
+<div class="itemNumber">1</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID0_1254794407074_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="ATL%20from%20Stone%20Mountain%20HDR_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/ATL%20from%20Stone%20Mountain%20HDR.jpg" id="ID0_1254794407074_thumb" alt="ATL%20from%20Stone%20Mountain%20HDR">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='ATL%20from%20Vinings_large.html'">
+<div class="itemNumber">2</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID1_1254794407075_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="ATL%20from%20Vinings_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/ATL%20from%20Vinings.jpg" id="ID1_1254794407075_thumb" alt="ATL%20from%20Vinings">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Atl%20Reflections%20-%205750_large.html'">
+<div class="itemNumber">3</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID2_1254794407075_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Atl%20Reflections%20-%205750_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Atl%20Reflections%20-%205750.jpg" id="ID2_1254794407075_thumb" alt="Atl%20Reflections%20-%205750">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='Clermont%20Hotel%20-%205609_large.html'">
+<div class="itemNumber">4</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID3_1254794407076_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Clermont%20Hotel%20-%205609_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Clermont%20Hotel%20-%205609.jpg" id="ID3_1254794407076_thumb" alt="Clermont%20Hotel%20-%205609">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Clermont%20Sign%20-%205638_large.html'">
+<div class="itemNumber">5</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID4_1254794407076_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Clermont%20Sign%20-%205638_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Clermont%20Sign%20-%205638.jpg" id="ID4_1254794407076_thumb" alt="Clermont%20Sign%20-%205638">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Clermont%20Sign%20Angled%20-%205563_large.html'">
+<div class="itemNumber">6</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID5_1254794407077_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Clermont%20Sign%20Angled%20-%205563_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Clermont%20Sign%20Angled%20-%205563.jpg" id="ID5_1254794407077_thumb" alt="Clermont%20Sign%20Angled%20-%205563">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Clermont%20signs%20and%20City%20-5578_large.html'">
+<div class="itemNumber">7</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID6_1254794407077_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Clermont%20signs%20and%20City%20-5578_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Clermont%20signs%20and%20City%20-5578.jpg" id="ID6_1254794407077_thumb" alt="Clermont%20signs%20and%20City%20-5578">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='COP%20Fountain%20-%207684_large.html'">
+<div class="itemNumber">8</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID7_1254794407078_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="COP%20Fountain%20-%207684_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/COP%20Fountain%20-%207684.jpg" id="ID7_1254794407078_thumb" alt="COP%20Fountain%20-%207684">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Dancing%20Water%20COP%20-%207671_large.html'">
+<div class="itemNumber">9</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID8_1254794407078_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Dancing%20Water%20COP%20-%207671_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Dancing%20Water%20COP%20-%207671.jpg" id="ID8_1254794407078_thumb" alt="Dancing%20Water%20COP%20-%207671">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Deconnector%20-%20DSC_5005_large.html'">
+<div class="itemNumber">10</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID9_1254794407079_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Deconnector%20-%20DSC_5005_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Deconnector%20-%20DSC_5005.jpg" id="ID9_1254794407079_thumb" alt="Deconnector%20-%20DSC_5005">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Downtown%20Atlanta%20-%20DSC_4903_large.html'">
+<div class="itemNumber">11</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID10_1254794407079_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Downtown%20Atlanta%20-%20DSC_4903_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Downtown%20Atlanta%20-%20DSC_4903.jpg" id="ID10_1254794407079_thumb" alt="Downtown%20Atlanta%20-%20DSC_4903">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='Downtown%20Connector%20-%204980_large.html'">
+<div class="itemNumber">12</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID11_1254794407080_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Downtown%20Connector%20-%204980_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Downtown%20Connector%20-%204980.jpg" id="ID11_1254794407080_thumb" alt="Downtown%20Connector%20-%204980">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="pagination">
+<ul>
+<li class="current">1</li>
+<li>
+<a href="index_2.html">2</a>
+</li>
+<li>
+<a href="index_3.html">3</a>
+</li>
+<li class="previous">Previous</li>
+<li class="next">
+<a class="paginationLinks" href="index_2.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index_2.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--padding for ie-->
+</meta>
+<meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer">
+<!--padding for ie-->
+</meta>
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage">
+<div id="index">
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_5437_large.html'">
+<div class="itemNumber">13</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID12_1254794407080_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5437_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5437.jpg" id="ID12_1254794407080_thumb" alt="DSC_5437">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_5481_large.html'">
+<div class="itemNumber">14</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID13_1254794407081_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5481_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5481.jpg" id="ID13_1254794407081_thumb" alt="DSC_5481">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_5524_large.html'">
+<div class="itemNumber">15</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID14_1254794407081_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5524_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5524.jpg" id="ID14_1254794407081_thumb" alt="DSC_5524">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='DSC_5696_large.html'">
+<div class="itemNumber">16</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID15_1254794407082_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5696_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5696.jpg" id="ID15_1254794407082_thumb" alt="DSC_5696">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_5911_large.html'">
+<div class="itemNumber">17</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID16_1254794407082_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5911_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5911.jpg" id="ID16_1254794407082_thumb" alt="DSC_5911">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_5968_large.html'">
+<div class="itemNumber">18</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID17_1254794407082_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_5968_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_5968.jpg" id="ID17_1254794407082_thumb" alt="DSC_5968">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='DSC_6001_large.html'">
+<div class="itemNumber">19</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID18_1254794407083_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_6001_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_6001.jpg" id="ID18_1254794407083_thumb" alt="DSC_6001">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='DSC_7832_large.html'">
+<div class="itemNumber">20</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID19_1254794407083_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="DSC_7832_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/DSC_7832.jpg" id="ID19_1254794407083_thumb" alt="DSC_7832">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Fireworks%20-%204817_large.html'">
+<div class="itemNumber">21</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID20_1254794407084_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Fireworks%20-%204817_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Fireworks%20-%204817.jpg" id="ID20_1254794407084_thumb" alt="Fireworks%20-%204817">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Fireworks%20-%204840_large.html'">
+<div class="itemNumber">22</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID21_1254794407084_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Fireworks%20-%204840_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Fireworks%20-%204840.jpg" id="ID21_1254794407084_thumb" alt="Fireworks%20-%204840">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft  borderBottom " onclick="window.location.href='Grant%20Park%20Fountain%20-%206159_large.html'">
+<div class="itemNumber">23</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID22_1254794407085_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Grant%20Park%20Fountain%20-%206159_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Grant%20Park%20Fountain%20-%206159.jpg" id="ID22_1254794407085_thumb" alt="Grant%20Park%20Fountain%20-%206159">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight borderBottom " onclick="window.location.href='Jackson%20Street%20-%205258%20master_large.html'">
+<div class="itemNumber">24</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID23_1254794407085_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Jackson%20Street%20-%205258%20master_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Jackson%20Street%20-%205258%20master.jpg" id="ID23_1254794407085_thumb" alt="Jackson%20Street%20-%205258%20master">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="pagination">
+<ul>
+<li>
+<a href="index.html">1</a>
+</li>
+<li class="current">2</li>
+<li>
+<a href="index_3.html">3</a>
+</li>
+<li class="previous">
+<a class="paginationLinks" href="index.html">Previous</a>
+</li>
+<li class="next">
+<a class="paginationLinks" href="index_3.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/index_3.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--padding for ie-->
+</meta>
+<meta name="KEYWORDS" content="photography,software,photos,digital darkroom,gallery,image,photographer">
+<!--padding for ie-->
+</meta>
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript" src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage">
+<div id="index">
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Jackson%20Street%20Dark-5202_large.html'">
+<div class="itemNumber">25</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID24_1254794407086_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Jackson%20Street%20Dark-5202_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Jackson%20Street%20Dark-5202.jpg" id="ID24_1254794407086_thumb" alt="Jackson%20Street%20Dark-5202">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Krog%20Street%20-%204231_large.html'">
+<div class="itemNumber">26</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID25_1254794407086_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Krog%20Street%20-%204231_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Krog%20Street%20-%204231.jpg" id="ID25_1254794407086_thumb" alt="Krog%20Street%20-%204231">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft   " onclick="window.location.href='Peidmont%20Park%20Gazebo%20DSC_5810_large.html'">
+<div class="itemNumber">27</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID26_1254794407087_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Peidmont%20Park%20Gazebo%20DSC_5810_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" id="ID26_1254794407087_thumb" alt="Peidmont%20Park%20Gazebo%20DSC_5810">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="thumbnail borderTopLeft borderRight  " onclick="window.location.href='Unlawful%20to%20park%20-%207848_large.html'">
+<div class="itemNumber">28</div>
+<div onmouseover="window.gridOn( this.parentNode, 'ID27_1254794407087_thumb' );" onmouseout="window.gridOff( this.parentNode );" class="alignmentOuterGrid">
+<div class="alignmentMiddle">
+<div class="alignmentInner">
+<div class="AdjustZIndex">
+<a href="Unlawful%20to%20park%20-%207848_large.html" onclick="return needThumbImgLink;">
+<img src="../content/bin/images/thumb/Unlawful%20to%20park%20-%207848.jpg" id="ID27_1254794407087_thumb" alt="Unlawful%20to%20park%20-%207848">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="emptyThumbnail borderTopLeft  "> </div>
+<div class="emptyThumbnail borderTopLeft  "> </div>
+<div class="emptyThumbnail borderTopLeft  "> </div>
+<div class="emptyThumbnail borderTopLeft borderRight "> </div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="emptyThumbnail borderTopLeft  borderBottom"> </div>
+<div class="emptyThumbnail borderTopLeft  borderBottom"> </div>
+<div class="emptyThumbnail borderTopLeft  borderBottom"> </div>
+<div class="emptyThumbnail borderTopLeft borderRight borderBottom"> </div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div class="pagination">
+<ul>
+<li>
+<a href="index.html">1</a>
+</li>
+<li>
+<a href="index_2.html">2</a>
+</li>
+<li class="current">3</li>
+<li class="previous">
+<a class="paginationLinks" href="index_2.html">Previous</a>
+</li>
+<li class="next">Next</li>
+</ul>
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/ATL%20from%20Stone%20Mountain%20HDR_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "0_1254794407074" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID0_1254794407074' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">Previous</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="ATL%20from%20Vinings_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/ATL%20from%20Stone%20Mountain%20HDR.jpg" width="675" height="225" id="ID0_1254794407074" alt="ATL%20from%20Stone%20Mountain%20HDR">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID0_1254794407074' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/ATL%20from%20Vinings_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "1_1254794407075" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID1_1254794407075' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="ATL%20from%20Stone%20Mountain%20HDR_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Atl%20Reflections%20-%205750_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/ATL%20from%20Vinings.jpg" width="675" height="225" id="ID1_1254794407075" alt="ATL%20from%20Vinings">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID1_1254794407075' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Atl%20Reflections%20-%205750_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "2_1254794407075" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID2_1254794407075' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="ATL%20from%20Vinings_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Clermont%20Hotel%20-%205609_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Atl%20Reflections%20-%205750.jpg" width="675" height="448" id="ID2_1254794407075" alt="Atl%20Reflections%20-%205750">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID2_1254794407075' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Clermont%20Hotel%20-%205609_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "3_1254794407076" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID3_1254794407076' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Atl%20Reflections%20-%205750_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Clermont%20Sign%20-%205638_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Clermont%20Hotel%20-%205609.jpg" width="509" height="675" id="ID3_1254794407076" alt="Clermont%20Hotel%20-%205609">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID3_1254794407076' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Clermont%20Sign%20-%205638_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "4_1254794407076" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID4_1254794407076' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Clermont%20Hotel%20-%205609_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Clermont%20Sign%20Angled%20-%205563_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Clermont%20Sign%20-%205638.jpg" width="675" height="448" id="ID4_1254794407076" alt="Clermont%20Sign%20-%205638">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID4_1254794407076' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Clermont%20Sign%20Angled%20-%205563_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "5_1254794407077" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID5_1254794407077' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Clermont%20Sign%20-%205638_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Clermont%20signs%20and%20City%20-5578_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Clermont%20Sign%20Angled%20-%205563.jpg" width="675" height="448" id="ID5_1254794407077" alt="Clermont%20Sign%20Angled%20-%205563">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID5_1254794407077' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Clermont%20signs%20and%20City%20-5578_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "6_1254794407077" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID6_1254794407077' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Clermont%20Sign%20Angled%20-%205563_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="COP%20Fountain%20-%207684_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Clermont%20signs%20and%20City%20-5578.jpg" width="626" height="675" id="ID6_1254794407077" alt="Clermont%20signs%20and%20City%20-5578">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID6_1254794407077' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/COP%20Fountain%20-%207684_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "7_1254794407078" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID7_1254794407078' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Clermont%20signs%20and%20City%20-5578_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Dancing%20Water%20COP%20-%207671_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/COP%20Fountain%20-%207684.jpg" width="675" height="448" id="ID7_1254794407078" alt="COP%20Fountain%20-%207684">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID7_1254794407078' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Dancing%20Water%20COP%20-%207671_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "8_1254794407078" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID8_1254794407078' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="COP%20Fountain%20-%207684_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Deconnector%20-%20DSC_5005_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Dancing%20Water%20COP%20-%207671.jpg" width="675" height="448" id="ID8_1254794407078" alt="Dancing%20Water%20COP%20-%207671">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID8_1254794407078' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Deconnector%20-%20DSC_5005_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "9_1254794407079" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID9_1254794407079' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Dancing%20Water%20COP%20-%207671_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Downtown%20Atlanta%20-%20DSC_4903_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Deconnector%20-%20DSC_5005.jpg" width="675" height="448" id="ID9_1254794407079" alt="Deconnector%20-%20DSC_5005">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID9_1254794407079' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Downtown%20Atlanta%20-%20DSC_4903_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "10_1254794407079" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID10_1254794407079' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Deconnector%20-%20DSC_5005_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Downtown%20Connector%20-%204980_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Downtown%20Atlanta%20-%20DSC_4903.jpg" width="675" height="448" id="ID10_1254794407079" alt="Downtown%20Atlanta%20-%20DSC_4903">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID10_1254794407079' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Downtown%20Connector%20-%204980_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "11_1254794407080" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID11_1254794407080' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Downtown%20Atlanta%20-%20DSC_4903_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5437_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index.html">
+<img src="../content/bin/images/large/Downtown%20Connector%20-%204980.jpg" width="675" height="225" id="ID11_1254794407080" alt="Downtown%20Connector%20-%204980">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID11_1254794407080' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5437_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "12_1254794407080" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID12_1254794407080' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Downtown%20Connector%20-%204980_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5481_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5437.jpg" width="675" height="448" id="ID12_1254794407080" alt="DSC_5437">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID12_1254794407080' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5481_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "13_1254794407081" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID13_1254794407081' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5437_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5524_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5481.jpg" width="675" height="448" id="ID13_1254794407081" alt="DSC_5481">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID13_1254794407081' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5524_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "14_1254794407081" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID14_1254794407081' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5481_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5696_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5524.jpg" width="675" height="448" id="ID14_1254794407081" alt="DSC_5524">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID14_1254794407081' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5696_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "15_1254794407082" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID15_1254794407082' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5524_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5911_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5696.jpg" width="675" height="266" id="ID15_1254794407082" alt="DSC_5696">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID15_1254794407082' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5911_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "16_1254794407082" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID16_1254794407082' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5696_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_5968_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5911.jpg" width="540" height="675" id="ID16_1254794407082" alt="DSC_5911">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID16_1254794407082' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_5968_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "17_1254794407082" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID17_1254794407082' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5911_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_6001_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_5968.jpg" width="675" height="448" id="ID17_1254794407082" alt="DSC_5968">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID17_1254794407082' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_6001_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "18_1254794407083" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID18_1254794407083' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_5968_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="DSC_7832_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_6001.jpg" width="675" height="448" id="ID18_1254794407083" alt="DSC_6001">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID18_1254794407083' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/DSC_7832_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "19_1254794407083" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID19_1254794407083' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_6001_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Fireworks%20-%204817_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/DSC_7832.jpg" width="675" height="448" id="ID19_1254794407083" alt="DSC_7832">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID19_1254794407083' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Fireworks%20-%204817_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "20_1254794407084" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID20_1254794407084' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="DSC_7832_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Fireworks%20-%204840_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/Fireworks%20-%204817.jpg" width="500" height="675" id="ID20_1254794407084" alt="Fireworks%20-%204817">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID20_1254794407084' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Fireworks%20-%204840_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "21_1254794407084" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID21_1254794407084' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Fireworks%20-%204817_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Grant%20Park%20Fountain%20-%206159_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/Fireworks%20-%204840.jpg" width="675" height="446" id="ID21_1254794407084" alt="Fireworks%20-%204840">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID21_1254794407084' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Grant%20Park%20Fountain%20-%206159_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "22_1254794407085" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID22_1254794407085' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Fireworks%20-%204840_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Jackson%20Street%20-%205258%20master_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/Grant%20Park%20Fountain%20-%206159.jpg" width="675" height="448" id="ID22_1254794407085" alt="Grant%20Park%20Fountain%20-%206159">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID22_1254794407085' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Jackson%20Street%20-%205258%20master_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "23_1254794407085" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID23_1254794407085' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Grant%20Park%20Fountain%20-%206159_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_2.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Jackson%20Street%20Dark-5202_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_2.html">
+<img src="../content/bin/images/large/Jackson%20Street%20-%205258%20master.jpg" width="675" height="448" id="ID23_1254794407085" alt="Jackson%20Street%20-%205258%20master">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID23_1254794407085' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Jackson%20Street%20Dark-5202_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "24_1254794407086" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID24_1254794407086' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Jackson%20Street%20-%205258%20master_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_3.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Krog%20Street%20-%204231_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_3.html">
+<img src="../content/bin/images/large/Jackson%20Street%20Dark-5202.jpg" width="675" height="448" id="ID24_1254794407086" alt="Jackson%20Street%20Dark-5202">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID24_1254794407086' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Krog%20Street%20-%204231_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "25_1254794407086" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID25_1254794407086' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Jackson%20Street%20Dark-5202_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_3.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Peidmont%20Park%20Gazebo%20DSC_5810_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_3.html">
+<img src="../content/bin/images/large/Krog%20Street%20-%204231.jpg" width="675" height="472" id="ID25_1254794407086" alt="Krog%20Street%20-%204231">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID25_1254794407086' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Peidmont%20Park%20Gazebo%20DSC_5810_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "26_1254794407087" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID26_1254794407087' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Krog%20Street%20-%204231_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_3.html" class="detailLinks">Index</a>
+</li>
+<li class="next">
+<a class="detailLinks" href="Unlawful%20to%20park%20-%207848_large.html">Next</a>
+</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_3.html">
+<img src="../content/bin/images/large/Peidmont%20Park%20Gazebo%20DSC_5810.jpg" width="675" height="448" id="ID26_1254794407087" alt="Peidmont%20Park%20Gazebo%20DSC_5810">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID26_1254794407087' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+<file doctype-system="http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" doctype-public="-//W3C//DTD XHTML 1.1//EN" name="content/Unlawful%20to%20park%20-%207848_large.html">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Adobe Lightroom" />
+<title>Web Gallery</title>
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="125479440707098525_custom.css" />
+<link rel="stylesheet" type="text/css" media="screen" title="Custom Settings" href="../resources/css/master.css" />
+<script type="text/javascript">
+	  window.AgMode = "publish";
+      cellRolloverColor="#a1a1a1";
+      cellColor="#949494";
+      
+      window.AgOnLoad = function() {
+                        tellLightroomWhatImagesWeAreUsing(); 
+                        callCallback( "showInPhotoBin", "27_1254794407087" );callCallback( "setActiveImageSize", "large" );
+                }
+      </script>
+<script type="text/javascript" src="../resources/js/liveUpdate.js">
+<!--padding for ie-->
+</script>
+<!--[if lt IE 7.]> <script defer type="text/javascript"
+            src="../resources/js/pngfix.js"></script> <![endif]-->
+<!--[if gt IE 6]> <link rel="stylesheet" href="../resources/css/ie7.css"></link> <![endif]-->
+<!--[if lt IE 7.]> <link rel="stylesheet" href="../resources/css/ie6.css"></link> <![endif]-->
+</head>
+<body>
+<div id="wrapper2">
+<div id="sitetitle">
+<h1 onclick="clickTarget( this, 'siteTitle.text' );" id="liveUpdateSiteTitle">Web Gallery</h1>
+</div>
+<div id="collectionHeader">
+<h1 onclick="clickTarget( this, 'groupTitle.text' );" id="liveUpdateCollectionTitle">Atl Photographs</h1>
+<p onclick="clickTarget( this, 'groupDescription.text' );" id="liveUpdateCollectionDescription">e</p>
+</div>
+<div id="stage2">
+<div id="previewFull" class="borderTopLeft borderBottomRight">
+<div id="detailTitle" onclick="clickTarget( this, 'perImageSetting-title', 'ID27_1254794407087' );"> </div>
+<div class="detailNav">
+<ul>
+<li class="previous">
+<a class="detailLinks" href="Peidmont%20Park%20Gazebo%20DSC_5810_large.html">Previous</a>
+</li>
+<li class="index">
+<a href="index_3.html" class="detailLinks">Index</a>
+</li>
+<li class="next">Next</li>
+</ul>
+</div>
+<div id="detailImage">
+<a href="index_3.html">
+<img src="../content/bin/images/large/Unlawful%20to%20park%20-%207848.jpg" width="675" height="448" id="ID27_1254794407087" alt="Unlawful%20to%20park%20-%207848">
+<!--padding for ie-->
+</img>
+</a>
+</div>
+<div id="detailCaption" onclick="clickTarget( this, 'perImageSetting-description', 'ID27_1254794407087' );"> </div>
+</div>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+<div id="contact">
+<a href="mailto:user@domain.com">
+<span onclick="clickTarget( this, 'contactInfo.text' );" id="liveUpdateContactInfo">Contact name</span></a>
+</div>
+<div class="clear">
+<!--padding for ie-->
+</div>
+</div>
+</body>
+</html>
+</file>
+</files>

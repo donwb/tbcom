@@ -1,0 +1,448 @@
+body{
+	margin:0;
+	padding:0;
+	background:#1c1c1c;
+}
+	
+img{ border:0; }
+
+div#spacer{	clear:both;	}
+
+
+/*---------------------------*/
+div#wrapper
+{	width:100%; 
+	text-align:center; 
+	background:url(../images/logo_stripes.jpg) no-repeat top left; 
+	clear:both; 
+	margin:0; 
+	padding:0;
+	}
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+div#page-header
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	text-align:left;
+	width:500px;
+	margin:auto;
+	padding:50px 0px 0px 0px;
+	}
+
+div#page-header h4
+{	font:20px Arial, Helvetica, sans-serif;
+	color:#888888;
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	width:100%;
+	border-bottom:1px solid #444444;
+	}
+
+div#page-header a:link{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; }   		
+div#page-header a:visited{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; } 		
+div#page-header a:hover{ font: 11px Arial, Helvetica, sans-serif; color:#3a709c; letter-spacing:0px; text-decoration:none; } 			
+div#page-header a:active{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; }
+
+div#sub-header
+{	padding-top:5px;
+	}
+
+div#error-header
+{	padding-top:5px;
+	color:#990000;
+	font:11px Arial, Helvetica, sans-serif;
+	}
+
+.asterisk
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#3a709c;
+	}
+
+.errorMessage
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#990000;
+	}
+	
+.smallprint
+{	font:9px Arial, Helvetica, sans-serif;
+	}
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+table.tabularData
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}
+
+table.tabularData th.headertitle
+{	font:20px Arial, Helvetica, sans-serif;
+	color:#888888;
+	font-weight:normal;
+	border-bottom:1px solid #444444;
+	text-align:left;
+	}
+ 
+table.tabularData select
+{	font:10px Arial, Helvetica, sans-serif;
+	background:#333333; 
+	border:0; 
+	color:#CCCCCC;
+	}
+
+table.tabularData input
+{	font:10px Arial, Helvetica, sans-serif;
+	}
+
+input.inputbox
+{	background:#333333; 
+	border:0; 
+	color:#CCCCCC;
+	}
+
+table.tabularData a:link{ font: 10px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:underline; }   		
+table.tabularData a:visited{ font: 10px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:underline; } 		
+table.tabularData a:hover{ font: 10px Arial, Helvetica, sans-serif; color:#3a709c; letter-spacing:0px; text-decoration:underline; } 			
+table.tabularData a:active{ font: 10px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:underline; }
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+div#home-form
+{	font:10px Arial, Helvetica, sans-serif;
+	color:#999999;
+	padding:5px;
+	}
+	
+div#news
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	width:400px;
+	text-align:left;
+	margin:auto;
+	}
+
+div#news h3
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	font-weight:bold;
+	}
+	
+div#news h4
+{	font:16px Arial, Helvetica, sans-serif;
+	color:#999999;
+	margin-bottom:0px;
+	}
+	
+div#news p
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	line-height:18px;
+	margin-top:0px;
+	}
+
+
+div#news .date
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#999999;
+	}
+
+
+div#show-item
+{	width:500px; 
+	margin:auto; 
+	font:11px Arial, Helvetica, sans-serif; 
+	color:#666666;
+	padding-top:20px;
+	}
+
+div#show-item h3
+{	margin:0;
+	padding:5px 0px 0px 0px;
+	}
+	
+div#show-item p
+{	margin:0;
+	padding:0;
+	}
+
+div#show-item a:link{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; }   		
+div#show-item a:visited{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; } 		
+div#show-item a:hover{ font: 11px Arial, Helvetica, sans-serif; color:#3a709c; letter-spacing:0px; text-decoration:none; } 			
+div#show-item a:active{ font: 11px Arial, Helvetica, sans-serif; color:#999999; letter-spacing:0px; text-decoration:none; }
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+div#detail-display
+{	width:600px; 
+	text-align:center; 
+	margin:auto; 
+	clear:both; 
+	padding:30px 0px 50px 0px;
+	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+}
+
+div#detail-display h1
+{	font: 14px Arial, Helvetica, sans-serif;
+	color:#999999;
+	}
+
+div#detail-display p
+{	font:11px Arial, Helvetica, sans-serif;
+	color:#666666;
+	}
+
+div#detail-display img
+{	padding:10px;
+	}
+/*---------------------------*/
+
+
+
+
+/*---------------------------*/
+div#results-gallery
+{	width:700px; 
+	text-align:center; 
+	margin:auto; 
+	clear:both; 
+	padding:70px 0px 50px 0px;
+	}
+	
+div#nav-secondary{
+	font:11px Verdana, Arial, Helvetica, sans-serif; 
+	/*float:left;*/
+	width:800px;
+	text-align:left;
+	line-height:20px;
+	padding:0px 0px 5px 0px;
+	margin:auto;
+	/*border-right:1px solid #efefef;*/
+	border-bottom:1px solid #282828;
+}
+
+div#nav-secondary h5
+{	font:15px Verdana, Arial, Helvetica, sans-serif; 
+	color:#666666; 
+	padding:0px 10px 5px 0px;
+	margin:0;
+	display:inline;
+	border-right:1px solid #282828;
+	}
+	
+div#nav-link
+{	padding:0px 10px 5px 10px;
+	display:inline;
+	}
+
+div#nav-secondary a:link{ font: 10px Verdana, Arial, Helvetica, sans-serif;  color:#444444; letter-spacing:0px; text-decoration:none; }   		
+div#nav-secondary a:visited{ font: 10px Verdana, Arial, Helvetica, sans-serif; color:#444444; letter-spacing:0px; text-decoration:none; } 		
+div#nav-secondary a:hover{ font: 10px Verdana, Arial, Helvetica, sans-serif; color:#3a709c; letter-spacing:0px; text-decoration:none; } 			
+div#nav-secondary a:active{ font: 10px Verdana, Arial, Helvetica, sans-serif; color:#444444; letter-spacing:0px; text-decoration:none; }
+
+div#no-records{
+	width:450px;
+	margin:auto;
+	font:11px Arial, Helvetica, sans-serif;
+	float:right;
+	text-align:left;
+	color:#666666;
+	}
+/*---------------------------*/
+
+	
+/*---------------------------*/
+div.stream 
+{   text-align:center;
+	font:10px Arial, Helvetica, sans-serif;
+	/*float:right;*/
+	width:800px;
+	margin:auto;
+	padding:auto;
+	}
+	
+div.stream a img 
+{   vertical-align:middle;
+	border:none;
+    _background-image:none !important;
+	}
+	
+/* prop up the box for IE */
+div.stream span.shadow a i 
+{   display:none;
+    _display:inline-block;
+    width:1px;
+	}
+	
+div.stream div.tt-a span.tt-w,
+div.stream div.tt-a div.tt-w 
+{   display:table-cell;
+    display:inline-block;
+    vertical-align:top;
+	padding:2px 0;
+	}
+	
+div.stream div.tt-a span.tt-w span.shadow 
+{    vertical-align:top;
+    _line-height:150px;
+	display:inline-block;
+    display:table-cell;
+	padding:15px;
+    /* height:175px; */
+    padding-left:0 !important;
+    padding-right:0 !important;
+    background-repeat:no-repeat;
+    background-position:center;
+	}
+
+/* width consistency for 'fox */
+div.stream div.tt-a div.tt-w span.shadow::after,
+div.stream div.tt-a span.tt-w span.shadow::after {
+    display:none;
+    display:-moz-inline-block;
+    content:" ";
+
+    height:1px;
+    overflow:hidden;
+	}
+
+div.stream div.tt-a {
+    display:inline;
+	zoom:1;
+	padding:10px;
+	}
+
+div.stream div#thumb-desc
+{	font:10px Arial, Helvetica, sans-serif;
+	text-align:center;
+	padding-top:3px;
+	}
+
+div.stream a:link{ font:normal 10px Arial, Helvetica, sans-serif; color:#666666; text-decoration:none; }   		
+div.stream a:visited{ font:normal 10px Arial, Helvetica, sans-serif; color:#666666; text-decoration:none; } 		
+div.stream a:hover{ font:normal 10px Arial, Helvetica, sans-serif; color:#3a709c; text-decoration:none; } 			
+div.stream a:active{ font:normal 10px Arial, Helvetica, sans-serif; color:#666666; text-decoration:none; }
+/*---------------------------*/
+
+
+/*---------------------------*/
+#sddm
+{	margin: 0px auto 0px auto;
+	padding: 4px 0px 0px 0px;
+	z-index: 30;
+	}
+
+	
+#sddm li
+{	margin: 0;
+	padding: 0;
+	list-style: none;
+	float: left;
+	font: 12px Verdana, Arial, Helvetica, sans-serif;
+	height:32px;
+	background-color:#282828;
+	}
+
+#sddm li a
+{	display: block;
+	margin: 3px 1px 0px 0px;
+	padding: 4px 10px 5px;
+	color: #999999;
+	text-align: center;
+	text-decoration: none;
+	/*border-right:1px solid #cccccc;*/
+	}
+
+#sddm li a:hover
+{	/*background-color: #369; */
+	color: #369;
+	}
+
+#sddm div
+{	position: absolute;
+	visibility: hidden;
+	margin: 7px 0px 0px 0px;
+	padding: 0px;
+	background:#1c1c1c;
+	}
+
+	#sddm div a
+	{	position: relative;
+		display: block;
+		margin: 1px;
+		padding: 5px 10px;
+		width: auto;
+		white-space: nowrap;
+		text-align: left;
+		text-decoration: none;
+		background: #282828;
+		color: #888888;
+		font: 12px arial;
+		}
+
+	#sddm div a:hover
+	{	/*background-color: #369; */
+		color: #3a709c;
+		}
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+input.formButton{ 
+	background:url(../images/pat_button.jpg) repeat-x top right; 
+	border-top:1px solid #666666; 
+	border-left:1px solid #666666; 
+	border-right:1px solid #000000; 
+	border-bottom:1px solid #000000; 
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
+	height:17px;
+	color:#999999;
+}
+
+select{
+	background:#333333; 
+	border:0; 
+	color:#999999;
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	}
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+div#nav-strip
+{	width:100%; 
+	text-align:center; 
+	background-color:#282828;
+	}
+/*---------------------------*/
+
+
+
+/*---------------------------*/
+div#hammerhead
+{	background-color:#282828; 
+	font:10px Arial, Helvetica, sans-serif; 
+	color:#666666; 
+	width:100%; 
+	text-align:center; 
+	padding:5px;
+	margin:25px 0px 15px 0px;
+	clear:both;
+	}
+
+div#hammerhead a:link{ font: 10px Arial, Helvetica, sans-serif; color:#666666; letter-spacing:0px; text-decoration:none; }   		
+div#hammerhead a:visited{ font: 10px Arial, Helvetica, sans-serif; color:#666666; letter-spacing:0px; text-decoration:none; } 		
+div#hammerhead a:hover{ font: 10px Arial, Helvetica, sans-serif; color:#3a709c; letter-spacing:0px; text-decoration:none; } 			
+div#hammerhead a:active{ font: 10px Arial, Helvetica, sans-serif; color:#666666; letter-spacing:0px; text-decoration:none; }
+/*---------------------------*/
