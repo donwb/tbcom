@@ -7,6 +7,39 @@
 </div>
 <div id="show-item" style="font-size:9pt">
 
+    <h5>----2012----</h5>
+    <h4>April 28-29, 2012 - Inman Park Festival -- Atlanta, GA - <a href="http://inmanparkfestival.org" style="font-size:9pt">http://inmanparkfestival.org</a></h4>
+    <p />
+    <h4>June 2-3, 2012 - VaHi Summerfest -- Booth 230 Virginia Ave - Atlanta, GA - <a href="http://www.vahi.org/summerfest.html" style="font-size:9pt">http://www.vahi.org/summerfest.html</a></h4>
+    <p />
+    <h4>June 18, 2012 - UGA Coffee and Culture -- Lawrenceville, GA - <a href="http://uga.edu/gwinnett" style="font-size:9pt">http://uga.edu/gwinnett</a></h4>
+    <p />
+    <h4>August 25, 26 - 10th Annual Grant Park Summer Shade Festival - <a href="http://www.summershade.org" style="font-size:9pt">www.summershade.org</a></h4>
+    <p />
+    <h4>September 1-3, 2012 - Art in the Park -- Marietta, GA - <a href="http://www.artparkmarietta.com/" style="font-size:9pt">http://www.artparkmarietta.com</a></h4>
+    <p />
+    <h4>September 6, 2012 - UGA Coffee and Culture -- Lawrenceville, GA - <a href="http://uga.edu/gwinnett" style="font-size:9pt">http://uga.edu/gwinnett</a></h4>
+    <p />
+    <h4>September 15-16, 2012 - Atlanta Arts Festival -- Atlanta, GA - <a href="http://www.atlantaartsfestival.com/" style="font-size:9pt">http://www.atlantaartsfestival.com</a></h4>
+    <p />
+    <div style="color:#FF5EAA">
+    <h4>September 22, 2012 - Randi Passoff Memorial Walk For Breast Cancer -- Dunwoody, GA - <a href="http://paintgeorgiapink.org/Event.aspx?Event_ID=3" style="font-size:9pt">http://paintgeorgiapink.org/Event.aspx?Event_ID=3</a></h4>
+    <div style="margin-top:-15px">3, 6, or 12 mile walk to remember a friend who fought for a cure for breast cancer. Please participate in the walk or donate to the non-profit if you can.</div>
+    <div style="margin-top:0px">Starts: 7:30am -- No minimum fundraising amount required</div>
+    </div>
+    <p />
+    <h4>October 13-14, 2012 - Candler Park Fall Fest -- Atlanta, Ga</h4>
+    <div style="margin-top:-15px"><a href="http://www.candlerpark.org/fallfest/" style="font-size:9pt">http://www.candlerpark.org/fallfest</a></div>
+    <p />
+    <h4>October 16, 2012 - UGA Coffee and Culture -- Lawrenceville, GA - <a href="http://uga.edu/gwinnett" style="font-size:9pt">http://uga.edu/gwinnett</a></h4>
+    <p />
+    <h4>November 3, 2010 - Chomp and Stomp - Cabbagetown, Downtown Atlanta - <a href="http://www.chompandstomp.com/" style="font-size:9pt">http://www.chompandstomp.com/</a></h4>
+    <p />
+    <h4>November 30 & December 1, 2012 - Decatur Holiday Marketplace -- Decatur, GA - <a href="http://www.decaturholidaymarketplace.com" style="font-size:9pt">http://www.decaturholidaymarketplace.com</a></h4>
+    <div style="margin-top:-15px">Fri: 5:30pm - 9:30pm, Sat: 10am - 8pm</div>
+    <p />
+    <h4>December 8, 2012 - Ladies Workout Express Holiday Show - Atlanta (Toco Hills) - <a href="www.ladiesworkoutexpress.com/" style="font-size:9pt">www.ladiesworkoutexpress.com/</a></h4>
+    <p />
     <h5>----2011----</h5>
     <h4>2011 - Solo show, Emory Law School Library - Atlanta, GA</h4>
     <p />
