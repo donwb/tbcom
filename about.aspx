@@ -7,7 +7,7 @@
 <div style="font-size:11pt">
 <h4>
 <p style="margin-bottom:1044">
-Traci Estes Browning is an internationally collected photographer whose work primarily features national parks and landscapes.  
+Traci Browning is an internationally collected photographer whose work primarily features national parks and landscapes.  
 The Georgia-based artist grew up on the East Coast immersed in nature with her camera in tow, previously living in a charmingly small coastal town in Florida and in New York City.  
 She spent a decade in the advertising world before freeing herself to pursue photography in 2007. She spent 6 months of the last two years
 traveling to photograph the majestic and intimate natural places that speak to her soul.
